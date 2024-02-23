@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+}
+.one{
+    display:block;
+    margin-left:500px;
+    margin-top:50px;
+    box-shadow:5px pink;
+}
+h1{
+    margin-left:500px;
+    color:white;
+}
+p{
+    margin-left:190px;
+    color:white;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    margin-left:550px;
+    box-shadow:yellow;
+}
+ul{
+    color:white;
+    margin-left:150px;
+    font-size:larger;
+    box-shadow:10px 10px 10px 10px  green;
+}
